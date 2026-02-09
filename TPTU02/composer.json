@@ -1,0 +1,17 @@
+{
+    "name": "un-ordinary/tptu02",
+    "require": {
+        "phpunit/phpunit": "^12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "UnOrdinary\\Tptu02\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UnOrdinary",
+            "email": "114882529+UnOrdinary95@users.noreply.github.com"
+        }
+    ]
+}
