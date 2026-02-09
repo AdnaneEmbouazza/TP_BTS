@@ -132,7 +132,35 @@ tp programmation objet/
     ├── caserne.php
     ├── periode.php
     └── pompier.php
-```
+TP_express/
+  └── client/
+      ├── app.js
+      ├── package.json
+      ├── package-lock.json
+      ├── bin/
+      ├── routes/
+      └── views/
+TP_MDP/
+  └── motdepasse/
+      ├── main.php
+      └── utilisateur.php
+TP_CAFE/
+  └── machineACafe/
+      ├── cafe.php
+      ├── composer.json
+      ├── composer.lock
+      ├── expresso.php
+      ├── latte.php
+      ├── macchiato.php
+      ├── machineACafe.php
+      └── test.php
+TPTU02/
+  ├── .gitignore
+  ├── Panier.php
+  ├── PanierTest.php
+  ├── Produit.php
+  ├── composer.json
+  └── composer.lock
 
 ## Organisation
 
