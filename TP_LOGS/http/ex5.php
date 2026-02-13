@@ -1,7 +1,7 @@
 <?php
 
 $fic = fopen("access.log", "r");
-$i= 0 // compteur de ligne 
+$i= 0;// compteur de ligne 
 
 while (!feof($fic)){
     $ligne=fgets($fic, 1024);
