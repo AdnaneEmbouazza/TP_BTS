@@ -178,8 +178,11 @@ TP_LOGS/
  ├── SSH
   ├── Ssh.log
   └── ex6.php
+tpexpresssessionActivite1/
+  ├── index.js
+  ├── package.json
+  ├── package-lock.json
    
-
 ## Organisation
 
 - **TP algorithmie/** : Exercices et TPs d’algorithmie en PHP.
