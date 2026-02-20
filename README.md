@@ -181,7 +181,15 @@ TP_LOGS/
 tpexpresssessionActivite1/
   ├── index.js
   ├── package.json
-  ├── package-lock.json
+  └──package-lock.json
+ exoJS/
+  ├── Compteur_de_mots/
+  ├── JS_Rock_Paper-scissors/
+  ├── Etch-a-Sketch-JS/
+  └── entrainementJS/
+ TP_Combat/
+  └── src/
+
    
 ## Organisation
 
