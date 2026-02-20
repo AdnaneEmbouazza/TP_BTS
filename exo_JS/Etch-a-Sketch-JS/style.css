@@ -1,0 +1,23 @@
+#grille-container {
+  display: grid;
+  gap: 2px;
+  padding: 20px;
+  width: 80%; /* ou 100% si tu veux que ça prenne toute la largeur dispo */
+  margin: auto;
+}
+
+.case {
+  aspect-ratio: 1 / 1;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  border: 1px solid #333;
+  width: 100%; /* occupe toute la cellule */
+}
+
+.case:hover {
+  background-color: rgb(218, 223, 225);
+}
+
+.case.noire {
+  background-color: black;
+}
