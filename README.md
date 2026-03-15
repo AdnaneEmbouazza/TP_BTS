@@ -189,7 +189,11 @@ tpexpresssessionActivite1/
   └── entrainementJS/
  TP_Combat/
   └── src/
-
+exoC/
+  ├── convertisseur_celsus_farenheit
+  ├── testeur_année bissextile
+  ├── suite_fibonacci
+  └── Liste_de_contact
    
 ## Organisation
 
