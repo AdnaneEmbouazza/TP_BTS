@@ -1,6 +1,6 @@
 # TP Algorithmie & Programmation Objet
 
-Ce dépôt regroupe différents travaux pratiques (TP) et exercices réalisés dans le cadre des cours d’algorithmie et de programmation orientée objet en PHP.
+Ce dépôt regroupe différents travaux pratiques (TP) et exercices réalisés dans le cadre des cours d’algorithmie et de programmation orientée objet en PHP , JS/TS , C.
 
 ## Arborescence du projet
 
